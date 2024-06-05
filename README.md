@@ -39,6 +39,17 @@
 
 [阅读 Beta 下载地址](https://beta.miaogongzi.cc/)
 
+## 哔轻类似物
+
+### 导入地址
+
+- GitHub Raw（可能需要翻墙）：https://raw.githubusercontent.com/jiwangyihao/source-j-legado/main/bilinovel-like.json
+- [GitHub Proxy](https://mirror.ghproxy.com)（或其他类似代理/镜像）：https://mirror.ghproxy.com/https://raw.githubusercontent.com/jiwangyihao/source-j-legado/main/bilinovel-like.json
+
+### 其他说明
+
+几个像是用哔轻源码搭建的站，无加密，访问速度快一些，但更新比较少。
+
 ## 轻小说文库
 
 ### 导入地址
@@ -101,7 +112,9 @@
 
 只做了「网络小说」的部分（也就是没有文库本），因为该网站的文库本提供了epub下载（而且我懒）
 
-发现没做一是因为我懒，二是因为我用不着（[受虐滑稽]
+~~发现没做一是因为我懒，二是因为我用不着（[受虐滑稽]~~
+
+【2024.5.7】现在发现做了（（
 
 没有封面的原因是该网站的非文库本本来就没有封面[受虐滑稽]
 
@@ -138,6 +151,21 @@
 部分卷没有章节是正常的，说明该卷下的章节有等级限制，被隐藏了（如图8）
 
 （建议查看酷安原帖，有图片说明）
+
+## ESJZone
+
+### 导入地址
+
+- GitHub Raw（可能需要翻墙）：https://raw.githubusercontent.com/jiwangyihao/source-j-legado/main/esjzone.json
+- [GitHub Proxy](https://mirror.ghproxy.com)（或其他类似代理/镜像）：https://mirror.ghproxy.com/https://raw.githubusercontent.com/jiwangyihao/source-j-legado/main/esjzone.json
+
+### 其他说明
+
+！需要登录，新注册账号需要在指定帖回复后才能获得大多数书的访问权限。
+
+封面/插图加载不出来是正常的，因为ESJ使用了各种乱七八糟的图床（只有很少一部分是直接存储在ESJ的服务器上的），这些图床中的相当多数在国内网络环境接近于不可用。
+
+发现没有标签的原因是ESJ的标签系统和搜索是一体的（搜索的时候会同时搜索小说标题/作者/简介/标签），另外ESJ并没有标签列表。
 
 ## ✨ Stargazers over time
 
